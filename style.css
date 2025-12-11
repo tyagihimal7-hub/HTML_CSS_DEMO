@@ -1,7 +1,6 @@
 *{
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    box-sizing: border-box;
 }
 
 /*Navigation Bar*/
@@ -285,4 +284,5 @@ ul a:hover{
     display: flex;
     justify-content: center;
     align-items: center;
+
 }
